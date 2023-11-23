@@ -1,2 +1,2 @@
 # hacksc23
-Making something impactful!
+Wound Severity Detection Project
